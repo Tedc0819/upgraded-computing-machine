@@ -1,6 +1,6 @@
 {
   "name": "vcr-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A VCR library with class structure",
   "main": "index.js",
   "scripts": {
